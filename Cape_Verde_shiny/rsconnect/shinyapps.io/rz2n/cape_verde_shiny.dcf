@@ -1,0 +1,10 @@
+name: cape_verde_shiny
+title:
+username: rz2n
+account: rz2n
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10817727
+bundleId: 8060280
+url: https://rz2n.shinyapps.io/cape_verde_shiny/
+version: 1

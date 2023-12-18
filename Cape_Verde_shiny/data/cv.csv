@@ -1,0 +1,101 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Praia,14.9180,-23.5090,Cabo Verde,CV,Praia,primary,127832,127832
+Mindelo,16.8860,-24.9880,Cabo Verde,CV,São Vicente,admin,70468,70468
+São Filipe,14.8950,-24.4980,Cabo Verde,CV,São Filipe,admin,22227,22227
+Ribeira Grande,17.1830,-25.0650,Cabo Verde,CV,Ribeira Grande,admin,18890,18890
+Tarrafal,15.2780,-23.7520,Cabo Verde,CV,Tarrafal,admin,18561,18561
+Porto Novo,17.0190,-25.0640,Cabo Verde,CV,Porto Novo,admin,18028,18028
+Assomada,15.0960,-23.6670,Cabo Verde,CV,Santa Catarina,admin,12026,12026
+Pedra Badejo,15.1370,-23.5340,Cabo Verde,CV,Santa Cruz,admin,9530,9530
+Sal Rei,16.1770,-22.9180,Cabo Verde,CV,Boa Vista,admin,6357,6357
+Espargos,16.7560,-22.9460,Cabo Verde,CV,Sal,admin,6173,6173
+Tarrafal,16.5660,-24.3570,Cabo Verde,CV,Tarrafal de São Nicolau,admin,5237,5237
+Ponta do Sol,17.2020,-25.0930,Cabo Verde,CV,Ribeira Grande,admin,4738,4738
+Calheta de São Miguel,15.1860,-23.5930,Cabo Verde,CV,São Miguel,admin,4123,4123
+Porto Inglês,15.1380,-23.2110,Cabo Verde,CV,Maio,admin,3056,3056
+São Domingos,15.0280,-23.5630,Cabo Verde,CV,São Domingos,admin,2818,2818
+Ribeira da Barca,15.1380,-23.7590,Cabo Verde,CV,Santa Catarina,,2317,2317
+Cidade Velha,14.9160,-23.6060,Cabo Verde,CV,Ribeira Grande de Santiago,admin,2148,2148
+Pontinha da Janela,17.1210,-24.9870,Cabo Verde,CV,Paul,,1658,1658
+Rabil,16.1290,-22.8870,Cabo Verde,CV,Boa Vista,,1248,1248
+Calheta,15.2300,-23.2120,Cabo Verde,CV,Maio,,1156,1156
+Rui Vaz,15.0340,-23.6000,Cabo Verde,CV,São Lourenço dos Órgãos,,1078,1078
+São Pedro,16.8240,-25.0600,Cabo Verde,CV,São Vicente,,991,991
+Cruzinha,17.1667,-25.1667,Cabo Verde,CV,Ribeira Grande,,672,672
+Furna,14.8870,-24.6800,Cabo Verde,CV,Brava,,612,612
+Sinagoga,17.1780,-25.0320,Cabo Verde,CV,Ribeira Grande,,603,603
+João Galego,16.1510,-22.7440,Cabo Verde,CV,Boa Vista,,346,346
+Povoação Velha,16.0380,-22.9170,Cabo Verde,CV,Boa Vista,,309,309
+Calejão,16.6030,-24.3080,Cabo Verde,CV,Tarrafal de São Nicolau,,300,300
+Fontainhas,17.1880,-25.1040,Cabo Verde,CV,Ribeira Grande,,282,282
+Nossa Senhora do Monte,14.8580,-24.7180,Cabo Verde,CV,Brava,,271,271
+Fundo das Figueiras,16.1390,-22.7250,Cabo Verde,CV,Boa Vista,,241,241
+Cachaço,14.8370,-24.6970,Cabo Verde,CV,Brava,,228,228
+Carriçal,16.5540,-24.0810,Cabo Verde,CV,Ribeira Brava,,190,190
+Porto Rincão,15.0610,-23.7640,Cabo Verde,CV,Santa Catarina,,183,183
+Bofareira,16.1850,-22.8230,Cabo Verde,CV,Boa Vista,,144,144
+Santa Bárbara,14.8750,-24.6850,Cabo Verde,CV,Brava,,143,143
+Cabeço dos Tarafes,16.1240,-22.7250,Cabo Verde,CV,Boa Vista,,52,52
+João Teves,15.0680,-23.5890,Cabo Verde,CV,São Lourenço dos Órgãos,admin,,
+Montanha,15.0840,-23.5840,Cabo Verde,CV,São Lourenço dos Órgãos,,,
+Órgãos,15.0667,-23.6167,Cabo Verde,CV,São Lourenço dos Órgãos,,,
+Picos,15.0830,-23.6320,Cabo Verde,CV,São Salvador do Mundo,admin,,
+Pombas,17.1490,-25.0150,Cabo Verde,CV,Paul,admin,,
+Nova Sintra,14.8710,-24.6960,Cabo Verde,CV,Brava,admin,,
+Igreja,15.0339,-24.3250,Cabo Verde,CV,Mosteiros,admin,,
+Ribeira Brava,16.6150,-24.2990,Cabo Verde,CV,Ribeira Brava,admin,,
+Cova Figueira,14.8900,-24.2940,Cabo Verde,CV,Santa Catarina do Fogo,admin,,
+Sacramento,15.0500,-23.5667,Cabo Verde,CV,São Domingos,,,
+Ribeirão Sal,15.1100,-23.7020,Cabo Verde,CV,Tarrafal,,,
+Chã de Dentro,15.2333,-23.6833,Cabo Verde,CV,Tarrafal,,,
+Achadinha,15.2333,-23.7167,Cabo Verde,CV,Tarrafal,,,
+Toril,15.3000,-23.7167,Cabo Verde,CV,Tarrafal,,,
+Moerão,15.2500,-23.7167,Cabo Verde,CV,Tarrafal,,,
+Tras-os-Montes,15.2940,-23.7140,Cabo Verde,CV,Tarrafal,,,
+Lapa Cachorro,15.2667,-23.7000,Cabo Verde,CV,Tarrafal,,,
+Biscainhos,15.2500,-23.7000,Cabo Verde,CV,Tarrafal,,,
+Ribeira da Prata,15.2290,-23.7450,Cabo Verde,CV,Tarrafal,,,
+Montinho,15.2167,-23.7167,Cabo Verde,CV,Tarrafal,,,
+Portal,15.2500,-23.7167,Cabo Verde,CV,Tarrafal,,,
+Montão,15.2500,-23.7167,Cabo Verde,CV,Tarrafal,,,
+Massapé,15.2333,-23.7000,Cabo Verde,CV,Tarrafal,,,
+Lazareto,16.8667,-25.0333,Cabo Verde,CV,São Vicente,,,
+Calhau,16.8500,-24.8667,Cabo Verde,CV,São Vicente,,,
+Cruz do Pé do Verde,16.8833,-24.9500,Cabo Verde,CV,São Vicente,,,
+Madeiral,16.8333,-24.9500,Cabo Verde,CV,São Vicente,,,
+Salamansa,16.9020,-24.9440,Cabo Verde,CV,São Vicente,,,
+Mateuzinho,16.8500,-24.9333,Cabo Verde,CV,São Vicente,,,
+Areia Branca,16.9000,-24.9667,Cabo Verde,CV,São Vicente,,,
+Fazenda Real,16.8667,-24.9500,Cabo Verde,CV,São Vicente,,,
+Figueira das Naus,15.1820,-23.7310,Cabo Verde,CV,Santa Catarina,,,
+Caculi,17.1650,-25.0980,Cabo Verde,CV,Ribeira Grande,,,
+Chã da Igreja,17.1571,-25.1635,Cabo Verde,CV,Ribeira Grande,,,
+Pedra Lume,16.7630,-22.8950,Cabo Verde,CV,Sal,,,
+Praia Baixo,15.0595,-23.4721,Cabo Verde,CV,São Domingos,,,
+Achada Monte,15.2340,-23.6430,Cabo Verde,CV,São Miguel,,,
+Santa Cruz,15.1340,-23.5600,Cabo Verde,CV,Santa Cruz,,,
+Ribeira Ilhéu,15.0370,-24.3740,Cabo Verde,CV,Mosteiros,,,
+Achada Grande,14.9870,-24.3050,Cabo Verde,CV,Mosteiros,,,
+Praia Branca,16.6420,-24.3860,Cabo Verde,CV,Tarrafal de São Nicolau,,,
+Cabeçalinho,16.6040,-24.3210,Cabo Verde,CV,Tarrafal de São Nicolau,,,
+Preguiça,16.5620,-24.2810,Cabo Verde,CV,Ribeira Brava,,,
+Castilhiano,16.5820,-24.0410,Cabo Verde,CV,Ribeira Brava,,,
+Estância Brás,16.6680,-24.3200,Cabo Verde,CV,Ribeira Brava,,,
+Queimadas,16.6360,-24.3170,Cabo Verde,CV,Ribeira Brava,,,
+Carvoeiros,16.6480,-24.3020,Cabo Verde,CV,Ribeira Brava,,,
+Covoada,16.6560,-24.3440,Cabo Verde,CV,Ribeira Brava,,,
+Juncalinho,16.6130,-24.1320,Cabo Verde,CV,Ribeira Brava,,,
+Espingueira,16.2090,-22.7950,Cabo Verde,CV,Boa Vista,,0,0
+Patim,14.8760,-24.4240,Cabo Verde,CV,São Filipe,,,
+Fonte Aleixo,14.8480,-24.3560,Cabo Verde,CV,Santa Catarina do Fogo,,,
+Galinheiro,14.9990,-24.4440,Cabo Verde,CV,São Filipe,,,
+Vicente Dias,14.8930,-24.4510,Cabo Verde,CV,São Filipe,,,
+Figueira Pavão,14.8710,-24.3110,Cabo Verde,CV,Santa Catarina do Fogo,,,
+Tarrafal,16.9590,-25.3100,Cabo Verde,CV,Porto Novo,,,
+Ribeira Fria,17.1430,-25.1920,Cabo Verde,CV,Porto Novo,,,
+Ribeira da Cruz,17.1070,-25.2450,Cabo Verde,CV,Porto Novo,,,
+Porto Gouveia,14.9400,-23.6650,Cabo Verde,CV,Ribeira Grande de Santiago,,,
+Chã de Figueiras,15.1833,-23.7167,Cabo Verde,CV,Santa Catarina,,,
+Charco,15.1220,-23.7425,Cabo Verde,CV,Santa Catarina,,,
+Malveira,15.1333,-23.7167,Cabo Verde,CV,Santa Catarina,,,
+Fundura,15.1648,-23.6992,Cabo Verde,CV,Santa Catarina,,,
